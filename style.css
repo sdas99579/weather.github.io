@@ -27,33 +27,33 @@ body{
 
 input[type="submit"]{
   padding: 15px 30px;
-  background: #e7e7e7;
+  background:   #e0ebeb;
   border: none;
-  border-radius: 6px;
+  border-radius: 10px;
   font-family: 'New Tegomin', serif;
   font-weight:bold;
   font-size: 20px;
 }
 
 input[type="text"]{
-  width: 600px;
+  width: 410px;
   height: 55px;
   padding: 10px 20px;
-  background: #e7e7e7;
+  background:   #e0ebeb;
   border: none;
-  border-radius: 6px;
+  border-radius: 10px;
   font-family: 'New Tegomin', serif;
   font-weight:bold;
   font-size: 20px;
 }
 
 .card{
-  width: 50%;
-  background: #e7e7e7;
+  width: 40%;
+  background:   #e0ebeb;
   height: 40vh;
   margin: 50px auto;
   padding: 30px 10px;
-  border-radius: 6px;
+  border-radius: 40px;
 }
 
 .card h1{

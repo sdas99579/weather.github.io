@@ -24,7 +24,7 @@ body{
   text-align: center;
   margin: 100px auto;
 }
-
+/*it is for submit button*/
 input[type="submit"]{
   padding: 15px 30px;
   background:   #e0ebeb;
